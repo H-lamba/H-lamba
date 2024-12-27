@@ -18,7 +18,7 @@ I’m always excited to:
 
 ### 📫 How to Reach Me
 - GitHub: [H-lamba](https://github.com/H-lamba)
-- Email: your_email@example.com (Update this with your actual email or remove if unnecessary)
+- Email: hlamba24191@gmail.com
 
 ### 🌟 Fun Fact
 I love breaking down complex problems and turning them into elegant, efficient solutions. Also, I’m a fan of tech discussions over a hot cup of coffee! ☕
