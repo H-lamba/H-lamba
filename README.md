@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/himanshu-50385730a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/h_lamba/"><img src="https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://leetcode.com/u/h_lamba/"><img src="https://img.shields.io/badge/LeetCode-354_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:hlamba24191@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/H-lamba"><img src="https://img.shields.io/badge/GitHub-H--lamba-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.credly.com/badges/17372aaf-8457-4822-a3c5-c23faaeb939a/print"><img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
@@ -259,8 +259,8 @@ Portfolio risk forecasting across **268,125 monthly records** over 9,885 loans.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **300+** | **9.01** | **1.19M** | **8** |
-| DSA problems solved | CGPA / 10 | test assertions in one repo | shipped systems |
+| **354** | **9.01** | **1.19M** | **8** |
+| LeetCode problems solved | CGPA / 10 | test assertions in one repo | shipped systems |
 | **3.30M** | **1,297×** | **₹2.11 Cr** | **Top 5** |
 | cache ops/sec achieved | cache speedup | payment failures analyzed | national hackathon finish |
 
@@ -268,24 +268,24 @@ Portfolio risk forecasting across **268,125 monthly records** over 9,885 loans.
 
 ---
 
-## GitHub Signal
+## Signal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=H-lamba&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4A9FD8&icon_color=4A9FD8&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-lamba&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4A9FD8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=H-lamba&theme=react&hide_border=true&background=0D1117&ring=4A9FD8&fire=FF6B00&currStreakLabel=4A9FD8" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/h_lamba?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode stats" width="500" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=H-lamba&theme=react&hide_border=true&background=0D1117&ring=4A9FD8&fire=FF6B00&currStreakLabel=4A9FD8" alt="Streak" />
+<sub><b>354 solved</b> — 180 Medium, 152 Easy, 22 Hard. Medium outnumbers Easy, which is the
+ratio I've been deliberately pushing toward.</sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=H-lamba&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=H-lamba&theme=react-dark&hide_border=true&bg_color=0D1117&color=4A9FD8&line=4A9FD8&point=FF6B00&area=true" alt="Contribution Graph" width="98%" />
+<sub>Contribution history is public and speaks for itself — the engineering detail lives in the repos above.</sub>
 
 </div>
 
@@ -314,7 +314,7 @@ Portfolio risk forecasting across **268,125 monthly records** over 9,885 loans.
 - **Top 5 finish at HackSethu** — a national-level hackathon — delivering a working solution under real-world constraints.
 - **Core Member, Google Developer Group (GDG)** — organized a college-fest hackathon end to end and drive community technical initiatives.
 - **National Cadet Corps cadet** — structured drills and camps; where the discipline behind the benchmarking habit actually came from.
-- **300+ LeetCode problems** across arrays, trees, graphs, hashing, recursion and dynamic programming.
+- **354 LeetCode problems solved** — 180 Medium, 152 Easy, 22 Hard — across arrays, trees, graphs, hashing, recursion and dynamic programming.
 
 ---
 
